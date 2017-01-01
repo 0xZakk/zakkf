@@ -1,15 +1,15 @@
 {
   "name": "zakkf",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Zachary Fleischmann",
   "scripts": {
-    "postinstall": "cat index.json"
+    "postinstall": "cat info.json"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "main": "./index.json",
-  "author": "Zachary Fleischmann",
+  "main": "index.js",
+  "author": "zakk <zachary.fleischmann@gmail.com> (zakkman.github.io)",
   "license": "ISC"
 }
