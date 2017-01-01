@@ -9,6 +9,9 @@
     "person",
     "contact"
   ],
+  "bin": {
+    "zakkf": "./index.js"
+  },
   "main": "index.js",
   "author": "zakk <zachary.fleischmann@gmail.com> (zakkman.github.io)",
   "license": "ISC"
